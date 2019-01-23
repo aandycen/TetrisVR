@@ -1,4 +1,4 @@
-![](tetris.png)
+![](tetrisvr.png)
 
 TetrisVR
 ========
